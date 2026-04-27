@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+speechrecognition
+pyttsx3
+pyaudio
+python-dotenv
+pipwin
+pyaudio
+google-generativeai
